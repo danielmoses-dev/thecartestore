@@ -1,5 +1,7 @@
 # 🛍️ The Carté Store – AI-Powered Trend Blog Automation
 
+https://thecartestore.42web.io/
+
 An elegant, fully automated content system that transforms trending Amazon products into visually stunning, editorial-quality blog posts. This automation blends AI writing, intelligent web scraping, and aesthetic media generation — all orchestrated in a stable, self-hosted n8n environment.
 
 ---
@@ -59,7 +61,7 @@ The Carté Store automation performs the following:
 This is the complete visual structure of the n8n automation powering The Carté Store.  
 It includes scraping, AI rewriting, image fetching, content formatting, and WordPress publishing:
 
-![Workflow Visual](./screenshots/Workflow%20Visual.png)
+![Workflow Visual](https://github.com/danielmoses-dev/thecartestore/blob/main/Workflow%20Visual.png)
 
 ---
 
@@ -68,10 +70,10 @@ It includes scraping, AI rewriting, image fetching, content formatting, and Word
 Below are two real examples of blog posts auto-generated and published by the system:
 
 **Example 1**  
-![Blog Example 1](./screenshots/Blog%20Example%201.png)
+![Blog Example 1](https://github.com/danielmoses-dev/thecartestore/blob/main/Blog%20Example%201.png)
 
 **Example 2**  
-![Blog Example 2](./screenshots/Blog%20Example%202.png)
+![Blog Example 2](https://github.com/danielmoses-dev/thecartestore/blob/main/Blog%20Example%202.png)
 
 ---
 
@@ -79,7 +81,7 @@ Below are two real examples of blog posts auto-generated and published by the sy
 
 This is how the published posts appear on the main blog archive page, styled for a premium, elegant brand:
 
-![Blog Archive](./screenshots/Blog%20Archive%20Page.png)
+![Blog Archive](https://github.com/danielmoses-dev/thecartestore/blob/main/Blog%20Archive%20Page.png)
 
 ---
 
